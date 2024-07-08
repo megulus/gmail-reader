@@ -1,3 +1,5 @@
 .idea
 client_secret.json
 gmail_token.json
+token.json
+*.pyc
